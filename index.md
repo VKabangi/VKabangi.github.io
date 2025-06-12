@@ -22,7 +22,7 @@ feature_row:
     url: "/projects/"
     btn_label: "View Projects"
     btn_class: "btn--primary"
-  - title: "🧪 Lab Challenges"
+  - title: "🧪 Labs Writeups"
     excerpt: "Read my writeups from CTFs and practical labs. Includes tools used and key lessons learned."
     url: "/labs/"
     btn_label: "Read Lab Notes"
@@ -34,5 +34,5 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+
 
