@@ -15,7 +15,7 @@ Whether you're reaching out for a potential opportunity, project collaboration, 
 
 ## 🛡️ Areas of Interest
 
-<div style="background-color:#f9f9f9; border-left: 4px solid #0a9396; padding: 1rem 1.5rem; border-radius: 8px; font-size: 1.05rem; line-height: 1.8;">
+<div style="background-color:#1e1e1e; border-left: 4px solid #0a9396; padding: 1rem 1.5rem; border-radius: 8px; font-size: 1.05rem; line-height: 1.8;">
 
 - 🔍 **Threat Detection & Incident Response**  
 - 🎯 **Honeypots & Cyber Deception Systems**  
