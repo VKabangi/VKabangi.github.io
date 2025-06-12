@@ -33,6 +33,6 @@ feature_row:
     btn_label: "Get in Touch"
     btn_class: "btn--primary"
 ---
-
+{% include feature_row %}
 
 
