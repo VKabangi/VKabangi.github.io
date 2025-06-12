@@ -5,81 +5,57 @@ permalink: /contact/
 author_profile: true
 ---
 
-If you'd like to connect professionally, collaborate, or have any questions about my work, feel free to reach out using the form below or via:
+## 🤝 Let's Connect
 
-- **Email:** kabangimureithi@gmail.com  
-- **LinkedIn:** [Victor Muriithi Kabangi](https://www.linkedin.com/in/victormuriithi/)  
-- **GitHub:** [github.com/VKabangi](https://github.com/VKabangi)
+I'm always eager to connect with fellow cybersecurity professionals, enthusiasts, or organizations looking to collaborate on security projects.
+
+Whether you're reaching out for a potential opportunity, project collaboration, mentoring, or just to say hello—I'd love to hear from you.
 
 ---
 
-<style>
-  .contact-form {
-    background-color: #1e1e1e;
-    padding: 2rem;
-    border-radius: 1rem;
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.05);
-    max-width: 600px;
-    margin: 2rem auto;
-    color: #ffffff;
-  }
+## 🛡️ Security Analyst Focus Areas
 
-  .contact-form label {
-    display: block;
-    margin-top: 1rem;
-    margin-bottom: 0.5rem;
-    font-weight: 600;
-  }
+<div style="background-color:#f9f9f9; border-left: 4px solid #0a9396; padding: 1rem 1.5rem; border-radius: 8px; font-size: 1.05rem; line-height: 1.8;">
 
-  .contact-form input,
-  .contact-form textarea {
-    width: 100%;
-    padding: 0.75rem;
-    border-radius: 0.5rem;
-    border: 1px solid #444;
-    background: #2b2b2b;
-    color: #fff;
-  }
+- 🔍 **Threat Detection & Incident Response**  
+- 🎯 **Honeypots & Cyber Deception Systems**  
+- 🛠️ **Vulnerability Assessment & Penetration Testing**  
+- 📊 **SIEM, Log Analysis & Intrusion Detection**  
+- 🔐 **Network Hardening & Secure Architecture**  
+- 🧬 **Digital Forensics & Malware Analysis**
 
-  .contact-form input:focus,
-  .contact-form textarea:focus {
-    border-color: #00bcd4;
-    outline: none;
-  }
+</div>
 
-  .contact-form button {
-    margin-top: 1.5rem;
-    background: #00bcd4;
-    color: #000;
-    padding: 0.75rem 1.5rem;
-    border: none;
-    border-radius: 0.5rem;
-    cursor: pointer;
-    font-weight: bold;
-    transition: background 0.3s ease;
-  }
-
-  .contact-form button:hover {
-    background: #0097a7;
-  }
-</style>
-
-<div class="contact-form">
-  <form action="https://formspree.io/f/mjkrweyw" method="POST">
-    <label for="name">Name</label>
-    <input type="text" name="name" required />
-
-    <label for="email">Email</label>
-    <input type="email" name="_replyto" required />
-
-    <label for="message">Message</label>
-    <textarea name="message" rows="6" required></textarea>
-
-    <button type="submit">Send Message</button>
-  </form>
+<div style="margin-top: 1rem; font-style: italic;">
+I'm always open to new ideas and collaborations in cybersecurity and its roles.
 </div>
 
 ---
 
-_I'm passionate about building secure systems and staying ahead of evolving cyber threats._  
-_I'm always open to new ideas and collaborations in cybersecurity and its roles._
+## 📧 Contact Form
+
+Fill out the form below and I’ll respond as soon as possible.
+
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <label for="name">Your Name</label><br>
+  <input type="text" name="name" id="name" required style="width: 100%; padding: 8px; margin-bottom: 12px;"><br>
+
+  <label for="email">Email Address</label><br>
+  <input type="email" name="_replyto" id="email" required style="width: 100%; padding: 8px; margin-bottom: 12px;"><br>
+
+  <label for="message">Message</label><br>
+  <textarea name="message" id="message" rows="6" required style="width: 100%; padding: 8px; margin-bottom: 12px;"></textarea><br>
+
+  <button type="submit" style="background-color: #0a9396; color: white; padding: 10px 16px; border: none; border-radius: 5px; cursor: pointer;">
+    Send Message
+  </button>
+</form>
+
+---
+
+## 🔗 Find Me Online
+
+- 🧑‍💻 [GitHub](https://github.com/VKabangi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victormuriithi/)
+- ✉️ [Email](mailto:kabangimureithi@gmail.com)
+
