@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🤝 Let's Connect
 
-I'm always eager to connect with fellow cybersecurity professionals, enthusiasts, or organizations looking to collaborate on security projects.
+I'm always eager to connect with fellow cybersecurity professionals, enthusiasts or organizations looking to collaborate on security projects.
 
 Whether you're reaching out for a potential opportunity, project collaboration, mentoring, or just to say hello—I'd love to hear from you.
 
