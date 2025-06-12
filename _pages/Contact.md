@@ -13,16 +13,15 @@ Whether you're reaching out for a potential opportunity, project collaboration, 
 
 ---
 
-## 🛡️ Security Analyst Focus Areas
+## 🛡️ Areas of Interest
 
 <div style="background-color:#f9f9f9; border-left: 4px solid #0a9396; padding: 1rem 1.5rem; border-radius: 8px; font-size: 1.05rem; line-height: 1.8;">
 
 - 🔍 **Threat Detection & Incident Response**  
 - 🎯 **Honeypots & Cyber Deception Systems**  
 - 🛠️ **Vulnerability Assessment & Penetration Testing**  
-- 📊 **SIEM, Log Analysis & Intrusion Detection**  
-- 🔐 **Network Hardening & Secure Architecture**  
-- 🧬 **Digital Forensics & Malware Analysis**
+- 🔐 **Network Security**  
+- 🧬 **Digital Forensic**
 
 </div>
 
