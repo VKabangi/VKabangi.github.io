@@ -1,6 +1,6 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /contact/
+permalink: /resume/
 author_profile: true
 ---
