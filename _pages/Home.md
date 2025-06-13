@@ -8,7 +8,7 @@ read_time: false
 
 ## 👋 Hello, I'm Victor Kabangi
 
-I'm a passionate **Cybersecurity Enthusiast** and with a deep curiosity for offensive and defensive security. I specialize in identifying system weaknesses, simulating attack vectors, and designing resilient, secure environments.
+I'm a passionate **Cybersecurity Enthusiast and analysis** and with a deep curiosity for offensive and defensive security. .
 
 > "Cybersecurity isn't just about defense—it's about understanding the attacker's mindset and building systems that anticipate threats before they strike."
 
