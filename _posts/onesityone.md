@@ -34,3 +34,6 @@ SNMP (Simple Network Management Protocol) is commonly used by network devices (l
 
 ```bash
 onesixtyone -c community.txt 10.10.10.0/24
+-c community.txt: Specifies a wordlist of SNMP community strings (e.g., public, private, etc.)
+
+10.10.10.0/24: Target subnet to scan for SNMP-enabled devices
