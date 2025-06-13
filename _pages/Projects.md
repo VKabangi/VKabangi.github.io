@@ -31,7 +31,7 @@ Designed and developed a deception-based honeypot system integrated with AI to d
 **Summary:**  
 Ongoing effort to solve real-world scenarios in penetration testing, recon, and network analysis. Writeups are documented and linked for public reference.
 
-📄 [Explore Lab Challenges](/labs/)
+📄 [Explore Lab Challenges](/Labs/)
 
 ---
 
