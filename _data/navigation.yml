@@ -7,3 +7,5 @@ main:
     url: /labs/
   - title: "Contact"
     url: /contact/
+  - title:"Home"
+    url:/home/
