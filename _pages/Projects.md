@@ -1,8 +1,38 @@
 ---
+layout: single
+title: "💻 Projects"
 permalink: /projects/
-title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# 🚀 Featured Projects
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+These are selected academic and personal projects that highlight my cybersecurity, programming, and system design skills.
+
+---
+
+## 🛡️ AI-Powered Honeypot System
+
+**Type:** Final Year Project  
+**Tools:** Python, Cowrie, Honeyd, Django, React, WebSockets, SQLite  
+**Summary:**  
+Designed and developed a deception-based honeypot system integrated with AI to detect and respond to cyber-attacks in real time. The system uses Cowrie and Honeyd logs, trains machine learning models, and displays attack patterns on a secured web dashboard.
+
+🔗 [View on GitHub](https://github.com/VKabangi/ai-powered-honeypot)  
+📄 [Project Report (PDF)](/assets/projects/ai-honeypot-report.pdf)
+
+---
+
+
+## 🧠 Cybersecurity Lab Challenge Writeups
+
+**Type:** Continuous Personal Learning  
+**Tools:** Hack The Box, TryHackMe, Markdown, PDF  
+**Summary:**  
+Ongoing effort to solve real-world scenarios in penetration testing, recon, and network analysis. Writeups are documented and linked for public reference.
+
+📄 [Explore Lab Challenges](/labs/)
+
+---
+
+> 💡 More projects (including offensive security tools and personal dashboards) are coming soon.
