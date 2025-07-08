@@ -40,7 +40,18 @@ Explored how web servers and applications function. Practiced identifying vulner
 **Summary:**  
 Used the `ffuf` tool to fuzz parameters, discover hidden routes, and perform extension brute-force to uncover functionality not visible through standard browsing. Identified hidden PHP endpoints and vulnerable behaviors through crafted requests and wordlists.
 
-📄 [Read Full Writeup (PDF)](/assets/ffuf.pdf)
+📄 [Read Full Writeup (PDF)](/assets/ffuf-web-attacks.pdf)
+
+---
+
+## 💉 Fundamentals of SQL Injection
+
+**Platform:** Hack The Box Academy  
+**Skills:** SQL syntax, login bypass, UNION-based injection, database enumeration  
+**Summary:**  
+Learned to exploit vulnerable input fields by injecting malicious SQL queries. Practiced techniques such as authentication bypass, error-based injection, and extracting data using `UNION SELECT`. Also explored how parameterized queries can mitigate these vulnerabilities.
+
+📄 [Read Full Writeup (PDF)](/assets/sqli.pdf)
 
 ---
 
