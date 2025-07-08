@@ -33,9 +33,20 @@ Explored how web servers and applications function. Practiced identifying vulner
 
 ---
 
+## 🚀 Attacking Web Applications with FFUF
+
+**Platform:** Hack The Box / Manual Practice  
+**Skills:** Fuzzing, URL parameter discovery, HTTP methods, hidden directories  
+**Summary:**  
+Used the `ffuf` tool to fuzz parameters, discover hidden routes, and perform extension brute-force to uncover functionality not visible through standard browsing. Identified hidden PHP endpoints and vulnerable behaviors through crafted requests and wordlists.
+
+📄 [Read Full Writeup (PDF)](/assets/ffuf.pdf)
+
+---
+
 ## 🔍 Passive Recon
 
-**Platform:** Try Hack Me
+**Platform:** Try Hack Me  
 **Skills:** WHOIS, Shodan, DNSDumpster, `dig`, `nslookup`  
 **Summary:**  
 Used passive techniques to gather intelligence about a target before active engagement, without triggering detection systems.
@@ -63,7 +74,3 @@ Learned the foundations of `nmap`—including scanning techniques, banner grabbi
 Introduced to computer networks: how data travels, network layers, core protocols and tools to inspect or troubleshoot network communication.
 
 📄 [Read Full Writeup (PDF)](/assets/network-intro.pdf)
-
----
-
-
